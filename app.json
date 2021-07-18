@@ -14,7 +14,7 @@
     "bot_token": {
       "description": "Bot token kamu",
       "required": true
-    },
+    }
   },
   "buildpacks": [
     {
