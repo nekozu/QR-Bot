@@ -2,7 +2,7 @@
 A Bot For Create Qr Code And Read Qr
 
 ## Library In Use
-[`Grammy`](https:grammy.dev)
+[`Grammy`](https://grammy.dev)
 
 # Heroku
 
