@@ -1,0 +1,25 @@
+ {
+"name": "QR-Bot",
+  "description": "Telegram bot untuk membuat code qr",
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "repository": "https://github.com/nekozu/QR-Bot",
+  "env": {
+    "start_text": {
+      "description": "Untuk command start.",
+      "required": true
+    },
+    "bot_token": {
+      "description": "Bot token kamu",
+      "required": true
+    },
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "stack": "heroku-20"
+}
